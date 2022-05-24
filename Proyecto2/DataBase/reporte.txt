@@ -1,0 +1,8 @@
+Para el mes 5 del año 2022 se obtuvieron los siguientes resultados
+Enojados: 0
+Disgustado: 0
+Atemorizado: 0
+Felices: 6
+Tristes: 0
+Sorprendidos: 0
+Indeferentes: 4
